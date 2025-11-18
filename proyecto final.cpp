@@ -8,7 +8,7 @@ int main (){
 	
 	
 	cout << "Pregunta 1	";
-	cout << "¿7/4 es mayor o menir que 1?";
+	cout << "Â¿7/4 es mayor o menir que 1?";
 	cout << "1. Menor ";
 	cout << "2. Mayor "
 	cin >> P1;
@@ -27,7 +27,7 @@ int main (){
 	
 	
 	cout << "Pregunta 2";
-	cout << "¿Cual de los numeros decimales equivale a 6/9";
+	cout << "Â¿Cual de los numeros decimales equivale a 6/9";
 	cout << "1. 0.1";
 	cout << "2. 0.9";
 	cout << "3. 0.66";
