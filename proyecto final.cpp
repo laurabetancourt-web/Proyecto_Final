@@ -123,6 +123,22 @@ int main (){
 		cout << "Incorrecto, la respuesta correcta era 33";
 		
 	}
+	#include <iostream>
+
+using namespace std;
+
+int main(){
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	return 0;
+}
 	
 	
 	
