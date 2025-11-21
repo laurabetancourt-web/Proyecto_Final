@@ -7,14 +7,6 @@ int main (){
 	
 	int P1, P2, bonus, puntos=0, i=0, P3[2], correcto=0;
 	string d;
-	
-	
- HEAD
-	
-	cout << "Pregunta 1	";
-	cout << "¿7/4 es mayor o menir que 1?";
-	cout << "1. Menor ";
-	cout << "2. Mayor "
 
 	cout << "Pregunta 1\n\n";
 	cout << "�7/4 es mayor o menor que 1?\n\n";
