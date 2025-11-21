@@ -12,7 +12,6 @@ int main (){
 	cout << "�7/4 es mayor o menor que 1?\n\n";
 	cout << "1.Menor\n";
 	cout << "2.Mayor\n ";
- laura
 	cin >> P1;
 	
 	if (P1==1){
@@ -40,14 +39,6 @@ int main (){
     }
 	
 	
-<<<<<<< HEAD
-	cout << "Pregunta 2";
-	cout << "¿Cual de los numeros decimales equivale a 6/9";
-	cout << "1. 0.1";
-	cout << "2. 0.9";
-	cout << "3. 0.66";
-	cout << "4. 0.8";
-=======
 	
 	
 	cout << "\n\nPregunta 2\n\n";
@@ -56,7 +47,6 @@ int main (){
 	cout << "2. 0,9\n";
 	cout << "3. 0,66\n";
 	cout << "4. 0,8\n ";
->>>>>>> laura
 	cin >> P2;
 	
 	if (P2<1 or P2>4){
@@ -195,14 +185,6 @@ int main (){
 		
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	return 0;
 }
 
